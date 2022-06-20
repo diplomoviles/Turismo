@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Turismo</string>
+
+
+
+    <string name="facebook_app_id">449928403636457</string>
+    <string name="fb_login_protocol_scheme">fb449928403636457</string>
+    <string name="facebook_client_token">c98c9170b7e0ba39d119f83598f9420a</string>
+
+
+
+</resources>
